@@ -1,11 +1,11 @@
-Sistema de interno dos funcionarios
----->Sistema de autenticação
-    Cadastro de login
-    login
-    banco de dados
+# ----- Sistema de interno dos funcionarios -----
+# ---->Sistema de autenticação
+    * Cadastro de login
+    * login
+    * banco de dados
 
-----> Cadastro da Empresa e Funcionario Separados
-  1 - Dados da empresa:
+# ----> Cadastro da Empresa e Funcionario Separados
+ # 1 - Dados da empresa:
         Nome da empresa
         nome fantasia
         CNPJ
@@ -20,7 +20,7 @@ Sistema de interno dos funcionarios
             visualização pdf
             Impressão
 
-  2 -  Cadastro Informaçoes pessoais do funcionario
+ # 2 -  Cadastro Informaçoes pessoais do funcionario
         Nome
         Data de nascimento
         Idade
